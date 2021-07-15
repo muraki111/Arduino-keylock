@@ -10,3 +10,7 @@
 
 - [http://192.168.10.102/open](http://192.168.10.102/open)
 - [http://192.168.10.102/clese](http://192.168.10.102/close)
+
+## 作動イメージ
+
+![video](https://thumbs.gfycat.com/ThankfulImaginativeCarpenterant-size_restricted.gif)
